@@ -1,0 +1,22 @@
+Record ID,Team Number,Match Number,Match Type,Drive Station Number,Preloaded?,Robot Left?,Auton Amp Notes Scored,Auton Notes Received,Teleop Speaker Notes Scored,Teleop Amp Notes Missed,Teleop Notes Received From Human Player,Teleop Notes Received From Ground,Endgame Position,Trap,Fouls,Tech Fouls,Yellow Cards,Red Cards,Alliance,Did Team Play Defense?,Time of Creation,Scouter Name,Wins
+1,9547,5,Qualification,1,No,No,0,4,10,1,6,8,Parked,Yes,3,2,0,1,Red,No,2025-04-02 03:31:31,Taylor,10
+2,8126,33,Qualification,3,Yes,No,0,5,18,6,8,7,Climbed,No,1,2,1,0,Blue,No,2025-04-02 17:16:31,Sam,18
+3,3926,9,Finals,3,No,No,2,3,12,3,9,0,None,Yes,0,1,1,1,Blue,Yes,2025-04-02 01:18:31,Jordan,12
+4,709,28,Qualification,2,Yes,Yes,0,1,7,1,3,10,Climbed,Yes,3,0,1,0,Blue,Yes,2025-04-02 12:08:31,Alex,7
+5,2061,38,Playoff,1,No,No,3,3,19,8,5,10,Climbed,Yes,1,0,1,1,Red,No,2025-04-02 20:51:31,Sam,19
+6,1512,46,Finals,2,No,No,4,4,17,8,8,1,Parked,Yes,1,1,1,0,Blue,Yes,2025-04-02 03:50:31,Taylor,17
+7,5177,65,Finals,3,No,Yes,0,3,13,9,10,7,Climbed,Yes,1,0,0,1,Red,No,2025-04-02 02:27:31,Sam,13
+8,3535,71,Finals,1,No,No,1,3,17,9,10,7,None,Yes,3,2,1,1,Blue,No,2025-04-01 23:59:31,Morgan,17
+9,2338,72,Finals,2,No,No,4,5,8,9,3,8,None,No,1,1,0,0,Red,Yes,2025-04-02 12:17:31,Jordan,8
+10,7440,52,Playoff,3,Yes,No,0,2,7,4,3,1,Climbed,No,1,1,0,0,Blue,Yes,2025-04-02 06:45:31,Taylor,7
+11,8046,89,Qualification,3,Yes,No,0,1,11,9,3,0,None,No,1,2,0,0,Red,Yes,2025-04-01 22:06:31,Taylor,11
+12,1569,60,Playoff,2,No,No,1,4,20,2,5,1,Climbed,No,2,0,1,0,Red,Yes,2025-04-02 01:37:31,Alex,20
+13,6299,66,Playoff,1,Yes,Yes,4,4,1,5,1,8,None,Yes,3,0,0,1,Blue,No,2025-04-02 16:29:31,Taylor,1
+14,2793,67,Playoff,2,Yes,No,3,2,0,6,1,2,Climbed,Yes,2,0,1,0,Blue,Yes,2025-04-02 15:37:31,Alex,0
+15,1601,6,Qualification,3,Yes,Yes,4,0,20,5,0,5,None,Yes,0,1,0,1,Blue,Yes,2025-04-02 00:51:31,Sam,20
+16,6778,50,Playoff,3,No,Yes,3,4,4,5,0,9,Parked,No,1,2,0,1,Red,Yes,2025-04-02 11:40:31,Taylor,4
+17,857,93,Finals,3,Yes,Yes,3,3,17,2,9,7,Parked,Yes,2,2,0,0,Red,No,2025-04-02 16:24:31,Taylor,17
+18,8413,40,Playoff,2,Yes,Yes,5,2,20,7,3,4,Parked,No,3,2,0,0,Red,No,2025-04-02 05:03:31,Jordan,20
+19,3037,25,Finals,2,Yes,No,2,2,14,7,9,6,Parked,Yes,0,2,0,0,Red,No,2025-04-02 17:58:31,Taylor,14
+20,1920,56,Qualification,3,No,No,1,0,6,9,4,4,Climbed,Yes,0,2,1,0,Red,Yes,2025-04-02 11:10:31,Jordan,8
+,,,,,,,,,,,,,,,,,,,,,,,
